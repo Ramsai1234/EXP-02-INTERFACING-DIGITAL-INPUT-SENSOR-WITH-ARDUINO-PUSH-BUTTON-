@@ -97,5 +97,6 @@ void loop()
 Output of the simulation :
 ![github logo](robo1.png)
 
-
+Result:
+Thus the digtal interfacing of circuit using  Aurdino circuit is completed sucessfully by thinkercad software.
 
